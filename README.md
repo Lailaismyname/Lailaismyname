@@ -1,7 +1,7 @@
 - 👋 Hi, I’m: Laila
-- 👀 I’m interested in: playing videogames and aliens. 
-- 🌱 I’m currently learning to: Front end web development
-- 💞️ I’m looking to collaborate on: nothing for now. When i can actually do something that will change. 
+- 👀 I’m interested in: learning. 
+- 🌱 I’m currently learning to: web development
+- 💞️ I’m looking to collaborate on: Front end development. 
 - 📫 How to reach me: think of me and i will know. 
 
 <!---
