@@ -1,7 +1,7 @@
 - 👋 Hi, I’m: Laila
 - 👀 I’m interested in: learning. 
-- 🌱 I’m currently learning to: web development
-- 💞️ I’m looking to collaborate on: Front end development. 
+- 🌱 I’m currently learning to: programming
+- 💞️ I’m looking to collaborate on: anything
 - 📫 How to reach me: think of me and i will know. 
 
 <!---
