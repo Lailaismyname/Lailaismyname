@@ -1,6 +1,6 @@
 - 👋 Hi, I’m: Laila
 - 👀 I’m interested in: learning. 
-- 🌱 I’m currently learning to: programming
+- 🌱 I’m currently: Following CS50 Webprogramming with python
 - 💞️ I’m looking to collaborate on: anything
 - 📫 How to reach me: think of me and i will know. 
 
